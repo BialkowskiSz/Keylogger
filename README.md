@@ -1,6 +1,6 @@
 # C++ Keylogger Project
 ### First C++ Project implementing self-taught skills and techniques.  
-# Only to be used for personal and educational purposes.  
+## Only to be used for personal and educational purposes.  
 #### Key features:  
 - Implemented Keyboard Hook to intercept Keyboard strokes before they reach the application.  
 * Completely silent execution with no detection from Anti-Virus (Avast)  
